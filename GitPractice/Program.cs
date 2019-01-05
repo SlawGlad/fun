@@ -19,6 +19,7 @@ namespace GitPractice
             Console.Write("sdadsad");
             Class1 class1 = new Class1();
             class1.ReturnNothing();
+            Console.WriteLine("branch");
         }
     }
 }
