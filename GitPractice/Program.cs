@@ -13,6 +13,7 @@ namespace GitPractice
             Console.WriteLine("HelloBaza");
             Console.WriteLine("sd");
             Console.Write("sdadsad");
+            Console.WriteLine("sadasdaaaaaaa");
         }
     }
 }
