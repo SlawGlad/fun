@@ -8,5 +8,9 @@ namespace GitPractice
 {
     class Class1
     {
+        public void ReturnNothing()
+        {
+            Console.WriteLine("asdasd");
+        }
     }
 }
